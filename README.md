@@ -6,11 +6,31 @@
 App grid, rotating wallpapers, and YouTube shelves for wrestling and international movies.
 No dependencies, no accounts, no tracking.
 
+
+
 ![Android 5.0+](https://img.shields.io/badge/Android-5.0%2B-3DDC84?logo=android&logoColor=white)
+
+
+
+
 ![Dependencies: 0](https://img.shields.io/badge/dependencies-0-F2B84B)
+
+
+
+
 ![Build](https://img.shields.io/badge/build-GitHub%20Actions-181717?logo=githubactions&logoColor=white)
+
+
+
+
 ![Size](https://img.shields.io/badge/APK-under%202%20MB-black)
-[![Latest release](https://img.shields.io/github/v/release/joel684/LIGHTSOUL?label=release&color=F2B84B)](https://github.com/joel684/LIGHTSOUL/releases/latest)
+
+
+[
+
+![Latest release](https://img.shields.io/github/v/release/joel684/LIGHTSOUL?label=release&color=F2B84B)
+
+](https://github.com/joel684/LIGHTSOUL/releases/latest)
 
 ### [⬇ Download LIGHTSOUL.apk](https://github.com/joel684/LIGHTSOUL/releases/latest/download/LIGHTSOUL.apk)
 
@@ -221,3 +241,4 @@ Bug reports, channel suggestions and pull requests are welcome: open an [issue](
 
 - Videos belong to their channels' owners. LIGHTSOUL only reads public feeds and opens the video in YouTube; it does not download or re-host any video.
 - **Wallpaper credits:** the four wallpapers are illustrations drawn by みかぶる (Mikaburu), released into the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) in the artist's repo [Mikanixonable/illusts](https://github.com/Mikanixonable/illusts) (files `451.png`, `169.png`, `172.png`, `5.png`). CC0 does not require credit; it is given anyway. They were scaled to 1280x720, darkened on the left so the app names stay readable, and one was mirrored.
+```
